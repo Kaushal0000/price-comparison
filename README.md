@@ -7,16 +7,13 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/Price_Comparison_Website?style=plastic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/Price_Comparison_Website?style=plastic)
 
-
-#### Table of Contents  
+#### Table of Contents
 [Features](#Features)  
 [Youtube](#Youtube)\
 [Installing](#Installing)
 
 
 ![Demonstartion Video](https://j.gifs.com/D1vYRx.gif)
-
-
 
 
 ## Features 
